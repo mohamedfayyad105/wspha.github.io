@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-07_2212",
+    "name": "wspha",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -32,6 +32,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
     "uniqCompNum": 20,
     "versionPublish": "4.8.8"
   },
